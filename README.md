@@ -1,6 +1,8 @@
 # Networks exercises (Unipd)
 
+<br>
 <a href="url"><img src="https://github.com/TobMTV/Networks---Unipd/blob/master/networking-infographic.png" align="left" height="240" width="300" ></a>
+<br>
 
 On that repository i will list my preparation exercise for networks exam (some of them need a look to work).
 You will find these topics:
